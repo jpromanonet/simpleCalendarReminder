@@ -62,7 +62,7 @@ $events = $result->fetchAll();
                         </div>
                         <div class="modal-body">
                             <div class="form-group">
-                                <label for="title" class="col-sm-2 control-label">Titulo</label>
+                                <label for="title" class="col-sm-2 control-label">Title</label>
                                 <div class="col-sm-10">
                                     <input type="text" name="title" class="form-control" id="title" placeholder="Titulo">
                                 </div>
