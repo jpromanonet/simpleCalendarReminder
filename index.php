@@ -203,7 +203,7 @@ $events = $result->fetchAll();
                 columnFormat: 'dddd', //Nombre Completo de los Dias.
                 firstDay: 0, //Para que comience en Domingo la semana
                 header: {
-                    language: 'en', //Lenguaje en Español
+                    language: 'en-gb', //Lenguaje en Español
                     left: 'prev,next today', //Opciones de Menus para avanzar o ir al Dia Actual
                     center: 'title',
                     right: 'month,basicWeek,basicDay' //Mas Opciones de Menus para cambiar de Vistas
